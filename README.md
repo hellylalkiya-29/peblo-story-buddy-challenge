@@ -4,6 +4,10 @@ A kid-friendly, AI-powered story narration and interactive quiz app built for Pe
 
 ---
 
+## 🌐 Live Demo
+Check out the live app here: https://peblo-story-buddy-helly.web.app
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
